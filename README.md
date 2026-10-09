@@ -1,16 +1,24 @@
-## Hi there 👋
+# Shaikh Umar Faruk
 
-<!--
-**Shaikhumarfaruk/Shaikhumarfaruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Customer Success · AI · Automation
 
-Here are some ideas to get you started:
+I build practical projects around customer success, AI,
+and automation, including websites, AI agents, dashboards,
+and scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My project focus
+
+- **Websites and portfolios** — presenting work and ideas clearly.
+- **AI agents** — supporting everyday tasks and workflows.
+- **Dashboards** — turning information into useful views.
+- **Automation** — simplifying repetitive work.
+
+## Current work
+
+I’m organizing my personal projects into GitHub repositories
+with source code, setup instructions, and examples.
+
+Each published project will explain what it does,
+how to run it locally, and its current limitations.
+
+[Explore my repositories](https://github.com/Shaikhumarfaruk?tab=repositories)
